@@ -1,0 +1,115 @@
+# Carpeta de salida de compilación
+bin/
+obj/
+
+# Archivos temporales
+*.user
+*.suo
+*.bak
+*.log
+*.vspscc
+[Tt]humbs.db
+[Tt]est[Rr]esult*
+
+# Visual Studio
+*.[Oo][Rr][Ii][Gg][Ii][Nn][Aa][Ll]
+_UpgradeReport_Files/
+[Bb]in/
+[Dd][Ee][Bb][Uu][Gg]/
+[Rr][Ee][Ll][Ee][Aa][Ss][Ee]/
+Ankh.NoLoad
+
+# Rider
+.idea/
+.idea.CleanupAfterRebuild/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss][Hh][Aa][Rr][Pp]*
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# NuGet
+packages/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Rider
+.idea/
+.idea.CleanupAfterRebuild/
+.idea.codeStyles/
+.idea.modules/
+.idea.tasks/
+.idea.vcs.xml
+.idea.vmoptions
+.idea.dictionaries/
+.idea.dataSources/
+.idea.dbnavigator/
+.idea.editorconfig/
+.idea.openFileAtLine.xml
+.idea.resharper.xml
+.idea.vcs.hash
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
